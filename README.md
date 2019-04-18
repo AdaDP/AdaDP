@@ -10,6 +10,6 @@ $`\sigma`$
 #### Figure 2. The performance of AdaDP, DPSGD  high privacy level setting. The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex?L" /> is set to 600.
 
 ![Performance with only adaptive learning rate](https://github.com/NJUIoT/AdaDP/blob/master/only_adaptive_lr-1.png)
-#### Figure 3. The performance of training without adaptive noise.  The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex.latex?L" /> is set to 600.
+#### Figure 3. The performance of training without adaptive noise.  The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex.latex?L" /> is set to 600. <img src="https://latex.codecogs.com/svg.latex.latex?\textsc{DPSgd}+\textsc{Alr}" /> denotes the algorithm applying an adaptive learning rate for DPSGD.
 
 
