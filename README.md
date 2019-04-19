@@ -7,7 +7,7 @@ IJCAI 2019 rebuttal supplementary pictures
 ![Performance under extreme high privacy leve lsetting](https://github.com/NJUIoT/AdaDP/blob/master/mnist_eps=0.1-1.png)
 #### Figure 2. The performance of AdaDP and DPSGD under high privacy level setting (<img src="https://latex.codecogs.com/svg.latex?\epsilon=0.1"/>) on MNIST. The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex?L" /> is set to 600.
 
-![Performance with only adaptive learning rate](https://github.com/NJUIoT/AdaDP/blob/master/only_adaptive_lr-1.jpg)
+![Performance with only adaptive learning rate](https://github.com/NJUIoT/AdaDP/blob/master/only_adaptive_lr-1.png)
 #### Figure 3. The performance of training without adaptive noise (<img src="https://latex.codecogs.com/svg.latex.latex?\textsc{DPSgd}+\textsc{Alr}" /> denotes the algorithm without adaptive noise compared with AdaDP).  The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex.latex?L" /> is set to 600. 
 
 
