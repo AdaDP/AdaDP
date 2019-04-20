@@ -10,5 +10,5 @@ IJCAI 2019 rebuttal supplementary pictures
 ![Comparison with only adaptive learning rate](https://github.com/NJUIoT/AdaDP/blob/master/only_adaptive_lr-1.jpg)
 #### Figure 3. The performance of AdaDP and the algorithm of training without adaptive noise on MNIST (<img src="https://latex.codecogs.com/svg.latex.latex?\textsc{DPSgd}+\textsc{Alr}" /> denotes the algorithm without adaptive noise compared with AdaDP, namely DPSGD + RMSProp's adaptive learning rate).  The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex.latex?L" /> is set to 600. 
 
-![Comparison with [Lee et al. 2018]](https://github.com/NJUIoT/AdaDP/blob/master/comp_with_lee.png)
+![Comparison with [Lee et al. 2018]](https://github.com/NJUIoT/AdaDP/blob/master/comp_with_lee-1.png)
 #### Figure 4. The performance of AdaDP and the algorithm in [Lee et al. 2018] on MNIST. denotes the algorithm without adaptive noise compared with AdaDP, namely DPSGD + RMSProp's adaptive learning rate). The noise level <img src="https://latex.codecogs.com/svg.latex?\sigma" /> is set to 8.0 and the lot size <img src="https://latex.codecogs.com/svg.latex.latex?L" /> is set to 600. 
